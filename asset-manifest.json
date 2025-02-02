@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/blockchain-crowdfunding-site/static/css/main.e6c13ad2.css",
+    "main.js": "/blockchain-crowdfunding-site/static/js/main.90939cd6.js",
+    "static/js/488.48de05c5.chunk.js": "/blockchain-crowdfunding-site/static/js/488.48de05c5.chunk.js",
+    "index.html": "/blockchain-crowdfunding-site/index.html",
+    "main.e6c13ad2.css.map": "/blockchain-crowdfunding-site/static/css/main.e6c13ad2.css.map",
+    "main.90939cd6.js.map": "/blockchain-crowdfunding-site/static/js/main.90939cd6.js.map",
+    "488.48de05c5.chunk.js.map": "/blockchain-crowdfunding-site/static/js/488.48de05c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.90939cd6.js"
+  ]
+}
